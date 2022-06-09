@@ -16,7 +16,7 @@ chardet==3.0.4
 Click==7.0
 clyent==1.2.2
 constantly==15.1.0
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 cryptography==2.3.1
 cycler==0.10.0
 cymem==1.31.2
